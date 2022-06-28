@@ -1,0 +1,11 @@
+{
+  "name": "backendjs",
+  "version": "1.0.0",
+  "description": "modulo backend js package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "franciscomtz0719",
+  "license": "ISC"
+}
